@@ -35,9 +35,11 @@ Here’s an even more polished and visually captivating GitHub profile that refl
 🎯 DevOps Specialist | Cloud Solutions Architect | Automation Enthusiast
 
 🌟 Who Am I?
+
 I’m a passionate DevOps Engineer with 8.9 years of IT experience, including 5.9 years of expertise in cloud and DevOps technologies. My mission is to simplify, automate, and innovate by leveraging cutting-edge tools and practices. I specialize in building scalable, secure, and efficient infrastructure solutions tailored to meet modern business demands.
 
 🔥 Key Skills & Expertise
+
 🚀 Cloud Platforms: Azure ☁️ | AWS ☁️
 ⚙️ Infrastructure as Code (IaC): Terraform 🏗️ | ARM Templates
 💻 CI/CD Pipelines: Azure DevOps ⚡ | Jenkins ⚙️ | GitHub Actions 🛠️
@@ -46,8 +48,8 @@ I’m a passionate DevOps Engineer with 8.9 years of IT experience, including 5.
 📊 Monitoring & Logging: Prometheus 📈 | Grafana 📉 | ELK Stack
 📁 Version Control: Git 🌀 | GitHub | GitLab
 
-🛠️ My DevOps Toolbox
-Tool	Purpose
+🛠️ My DevOps Toolbox Tool	Purpose
+
 🐳 Docker	Containerization
 ☸️ Kubernetes	Orchestration
 🏗️ Terraform	Infrastructure Automation
@@ -58,6 +60,7 @@ Tool	Purpose
 🔒 HashiCorp Vault	Secrets & Key Management
 
 ✨ What I Love Doing
+
 ✔️ Automating repetitive tasks to save time ⏱️
 ✔️ Building scalable cloud infrastructure 🏗️
 ✔️ Streamlining CI/CD pipelines for faster delivery 🚀
@@ -65,6 +68,7 @@ Tool	Purpose
 ✔️ Solving production challenges and ensuring reliability 🔍
 
 🌐 My Work Philosophy
+
 🔄 Automate Everything: Time saved is productivity earned.
 🔍 Monitor and Optimize: Continuously improve systems for better performance.
 🤝 Collaboration First: Bring teams together for seamless delivery.
