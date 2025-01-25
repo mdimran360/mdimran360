@@ -1,17 +1,39 @@
-### Hi there 👋
+👋 Hi, I’m Md Imran
+🚀 DevOps Engineer | Cloud Enthusiast | Automation Expert
 
-<!--
-**mdimran360/mdimran360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ About Me
+🌟 With 8.9 years of IT experience, including 5.9 years specializing in cloud and DevOps technologies, I am passionate about transforming complex challenges into scalable, automated, and reliable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-ok
+📌 Expertise Includes:
+
+🌩️ Cloud Platforms: Azure, AWS
+⚙️ Infrastructure as Code: Terraform, ARM Templates
+🚀 CI/CD Pipelines: Azure DevOps, Jenkins, GitHub Actions
+🐳 Containerization: Docker, Kubernetes
+🔒 Security: Key Vaults, Secrets Management
+📊 Monitoring & Logging: Prometheus, Grafana, ELK Stack
+📁 Version Control: Git, GitHub, GitLab
+
+🛠️ Toolbox
+DevOps Tools	Category
+🐳 Docker	Containerization
+☸️ Kubernetes	Orchestration
+🏗️ Terraform	Infrastructure Automation
+⚡ Azure DevOps	CI/CD Pipelines
+📂 Git	Version Control
+🌐 Jenkins	Continuous Integration
+📊 Prometheus & Grafana	Monitoring
+🔒 Vault	Secrets Management
+![image](https://github.com/user-attachments/assets/923a2e60-112c-4036-a269-2d9f24b08489)
+
+🌟 What I Love Doing
+Automating infrastructure provisioning 🛠️
+Optimizing CI/CD pipelines for seamless delivery 🔄
+Containerizing applications for scalability 🐳
+Enhancing production support and system reliability 🔍
+
+📈 Let's Connect
+📫 Email: 
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mdimran360/)
+🌟 GitHub: [Your GitHub Profile](https://github.com/mdimran360/)
