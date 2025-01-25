@@ -15,16 +15,7 @@
 📊 Monitoring & Logging: Prometheus, Grafana, ELK Stack
 📁 Version Control: Git, GitHub, GitLab
 
-🛠️ Toolbox
-DevOps Tools	Category
-🐳 Docker	Containerization
-☸️ Kubernetes	Orchestration
-🏗️ Terraform	Infrastructure Automation
-⚡ Azure DevOps	CI/CD Pipelines
-📂 Git	Version Control
-🌐 Jenkins	Continuous Integration
-📊 Prometheus & Grafana	Monitoring
-🔒 Vault	Secrets Management
+
 ![image](https://github.com/user-attachments/assets/923a2e60-112c-4036-a269-2d9f24b08489)
 
 🌟 What I Love Doing
