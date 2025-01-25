@@ -48,17 +48,6 @@ I’m a passionate DevOps Engineer with 8.9 years of IT experience, including 5.
 📊 Monitoring & Logging: Prometheus 📈 | Grafana 📉 | ELK Stack
 📁 Version Control: Git 🌀 | GitHub | GitLab
 
-🛠️ My DevOps Toolbox Tool	Purpose
-
-🐳 Docker	Containerization
-☸️ Kubernetes	Orchestration
-🏗️ Terraform	Infrastructure Automation
-⚡ Azure DevOps	CI/CD Pipeline Management
-📂 Git	Version Control
-🌐 Jenkins	Continuous Integration
-📊 Prometheus & Grafana	Monitoring & Visualization
-🔒 HashiCorp Vault	Secrets & Key Management
-
 ✨ What I Love Doing
 
 ✔️ Automating repetitive tasks to save time ⏱️
